@@ -37,3 +37,4 @@ public class Welcome extends JFrame {
 		getContentPane().setLayout(new BoxLayout(getContentPane(), BoxLayout.X_AXIS));
 	}
 }
+//add new method here

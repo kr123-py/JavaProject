@@ -38,3 +38,4 @@ public class a extends JFrame {
 	}
 
 }
+//add method here 
