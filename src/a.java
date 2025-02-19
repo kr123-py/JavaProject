@@ -38,3 +38,6 @@ public class a extends JFrame {
 	}
 
 }
+class b{
+	system.out.println("Hello")
+}
