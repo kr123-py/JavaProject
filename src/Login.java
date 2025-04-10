@@ -87,7 +87,7 @@ public class Login {
 				}
 				else
 				{
-					JOptionPane.showMessageDialog(null, "Invalid Username and Password", "Error", JOptionPane.ERROR_MESSAGE);
+					JOptionPane.showMessageDialog(null, "Invalid User", "Error", JOptionPane.ERROR_MESSAGE);
 					
 				
 				}
