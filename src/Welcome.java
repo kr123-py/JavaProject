@@ -8,7 +8,7 @@ import javax.swing.JLabel;
 import javax.swing.BoxLayout;
 import javax.swing.GroupLayout;
 import javax.swing.GroupLayout.Alignment;
-
+//Welcome file 
 public class Welcome extends JFrame {
 
 	/**
